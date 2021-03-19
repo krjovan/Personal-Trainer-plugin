@@ -1,0 +1,22 @@
+{
+  "author": "Jovan Kron",
+  "pluginName": "Personal trainer",
+  "pluginDescription": "Personal trainer plug-in, allows user to send exercise plans daily for app users to complete.",
+  "supportEmail": "loyafi1573@fironia.com",
+  "control": {
+    "content": {
+      "enabled": true
+    },
+    "design":{
+      "enabled": false
+    },
+    "settings": {
+      "enabled": false
+    }
+  },
+  "widget": {
+
+  },
+  "features": [],
+  "languages": ["en"]
+}

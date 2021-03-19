@@ -1,0 +1,21 @@
+body{
+    padding: 1em;
+}
+ul{
+    padding: 0;
+    margin-bottom: 1em;
+}
+
+li{
+    padding:.5em;
+    margin-top: 5px;
+    border-left: grey 5px solid;
+    background-color: #fcfcfc;
+    list-style-type: none;
+    cursor: pointer;
+}
+
+.completed{
+    border-left-color: greenyellow;
+    background-color: rgb(200, 255, 214);
+}
